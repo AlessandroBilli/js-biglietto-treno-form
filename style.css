@@ -1,3 +1,11 @@
 .container{
     border-radius: .375rem;
 }
+
+.generic-button {
+    margin: 1.25rem;
+    margin-top: 3.75rem;
+    color: red;
+    border-radius: .3125rem;
+
+}
